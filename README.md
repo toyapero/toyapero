@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toyapero
-- 👀 I’m interested in Cloud Engineering
-- 🌱 I’m currently learning Azure DevOps
+- 👀 I’m passionate about Cloud Engineering
+- 🌱 I’m an Azure DevOps Engineer
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me @toyapero
 
